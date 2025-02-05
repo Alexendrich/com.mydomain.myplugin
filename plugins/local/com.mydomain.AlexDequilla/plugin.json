@@ -1,0 +1,8 @@
+{
+  "name": "System Monitor",
+  "package": "com.mydomain.AlexDequilla",
+  "description": "AlexDequilla Exam",
+  "version": "0.0.1",
+  "system_packages": [],
+  "sdk": "0.1.2-pre"
+}

@@ -21,13 +21,4 @@ func Init(api sdkapi.IPluginApi) {
 	app.SetupRoutes(api)
 	themes.SetPortalTheme(api)
 	themes.SetAdminTheme(api)
-	// api.RegisterPlugin(api.Plugin{
-    //     Name:        "Alex Sample Plugin",
-    //     Description: "A sample plugin with additional fields",
-    //     Config: Config{
-    //         BannerText:   "Alex Banner",
-    //         IntegerField: 3,  // Default value
-    //         BooleanField: true, // Default value
-    //     },
-    // })
 }

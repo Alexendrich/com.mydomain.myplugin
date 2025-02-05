@@ -15,4 +15,5 @@ use (
     ./sdk/libs/validator-10.22.1
     ./sdk/libs/websocket-1.5.3
     ./plugins/system/com.flarego.default-theme
+    ./plugins/local/com.mydomain.AlexDequilla
 )
