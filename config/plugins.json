@@ -1,0 +1,17 @@
+{
+  "recompile": [],
+  "metadata": [
+    {
+      "Package": "com.flarego.default-theme",
+      "Def": {
+        "Src": "system",
+        "StorePackage": "",
+        "StorePluginVersion": "",
+        "StoreZipUrl": "",
+        "GitURL": "",
+        "GitRef": "",
+        "LocalPath": "plugins/system/com.flarego.default-theme"
+      }
+    }
+  ]
+}

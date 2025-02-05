@@ -1,0 +1,18 @@
+{
+  "admin": {
+    "Scripts": {
+      "theme.js": "js/theme-IGQH4AMH.js"
+    },
+    "Styles": {
+      "theme.css": "css/theme-MPRE7MOS.css"
+    }
+  },
+  "portal": {
+    "Scripts": {
+      "theme.js": "js/theme-YTO3ALUS.js"
+    },
+    "Styles": {
+      "theme.css": "css/theme-3OMOQGYW.css"
+    }
+  }
+}

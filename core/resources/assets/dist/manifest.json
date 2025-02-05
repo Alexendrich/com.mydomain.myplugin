@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "Scripts": {},
+    "Styles": {}
+  },
+  "portal": {
+    "Scripts": {
+      "app.js": "js/app-KC677TQ3.js"
+    },
+    "Styles": {
+      "app.css": "css/app-5OBTUNRZ.css"
+    }
+  }
+}
